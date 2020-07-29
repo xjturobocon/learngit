@@ -1,3 +1,4 @@
+new branch no-ff
 git is a distributed version control software.
 git is free easy.
 git has a mutable index called stage.
